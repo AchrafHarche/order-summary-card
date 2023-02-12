@@ -66,11 +66,11 @@ body {
     width: 90%;
     justify-content: space-between;
     padding: 1.5rem;
-    border-radius: 1rem;
-    -webkit-border-radius: 1rem;
-    -moz-border-radius: 1rem;
-    -ms-border-radius: 1rem;
-    -o-border-radius: 1rem;
+    border-radius: 0.7rem;
+    -webkit-border-radius: 0.7rem;
+    -moz-border-radius: 0.7rem;
+    -ms-border-radius: 0.7rem;
+    -o-border-radius: 0.7rem;
 }
 
 .container article div .price p {
@@ -121,19 +121,17 @@ body {
     width: 90%;
     padding: 0.8rem;
     border: none;
-    border-radius: 1rem;
-    -webkit-border-radius: 1rem;
-    -moz-border-radius: 1rem;
-    -ms-border-radius: 1rem;
-    -o-border-radius: 1rem;
+    border-radius: 0.5rem;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    -ms-border-radius: 0.5rem;
+    -o-border-radius: 0.5rem;
     background-color: hsl(245, 75%, 52%);
     color: white;
     font-size: 1rem;
     margin-top: 1.5rem;
     font-weight: 700;
     cursor: pointer;
-
-
 }
 
 .container .btn:hover {
@@ -161,6 +159,11 @@ body {
     color: hsl(224, 23%, 55%);
     font-weight: 700;
     cursor: pointer;
+    border-radius: 0.5rem;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    -ms-border-radius: 0.5rem;
+    -o-border-radius: 0.5rem;
 }
 
 
